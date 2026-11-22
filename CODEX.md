@@ -1,5 +1,9 @@
 # Network Explorer project context
 
+Read CONTEXT.md first for the current decisions saved on 2026-10-26, including
+the abandoned App Store plans, Tesla identification and interactive Terminal
+access from the SSH service. It supersedes older historical notes below.
+
 ## Identity and repository
 
 - Repository: https://github.com/meg768/network-explorer
